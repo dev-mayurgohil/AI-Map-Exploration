@@ -25,7 +25,7 @@ def main():
     )
 
     if st.button("Explore Bhugol Khoj "):
-        st.page_link("pages/Analysis.py", label="Get Started")
+        st.page_link("pages/Finder.py", label="Get Started")
 
 
 if __name__ == "__main__":
